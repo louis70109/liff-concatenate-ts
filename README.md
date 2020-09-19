@@ -2,13 +2,14 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-This is a template for LIFF concatenate mode by nodejs & typescript.
+This is a template for LIFF concatenate mode with nodejs & typescript.
 
 # Environment
 
 - LINE LIFF v2.3 concat mode
 - Express / nodejs v12.18
 - TypeScript
+- Jest (reference [this article](https://titangene.github.io/article/jest-typescript.html))
 
 # Heroku
 
